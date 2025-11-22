@@ -1,0 +1,24 @@
+# Azure Virtual Machine & Azure File Share Assignment
+
+## 📌 Student
+**Yasemin Kalemli**
+
+## 📘 Overview
+In this assignment, I created a Virtual Machine (VM) on Microsoft Azure, connected to it remotely, and configured Azure File Share for cloud-based storage.
+
+## 🔧 Steps Completed
+- Created an Azure Resource Group  
+- Deployed a Linux/Windows Virtual Machine  
+- Connected via SSH/RDP  
+- Created and connected Azure File Share to both PC and VM  
+- Performed server tasks (web server, database, file operations)
+
+## 📁 Files Included
+- Assignment report (PDF/Word)
+- Screenshots
+- Additional configuration notes
+
+## 🔗 LinkedIn Post
+*https://www.linkedin.com/posts/yasemin-kalemli-4049b937b_i-successfully-completed-my-azure-virtual-share-7398017431782273024-IZZJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF3xVgQBmuBDy8zdnv8TWy4gg3qfObgz0pc*
+
+---
